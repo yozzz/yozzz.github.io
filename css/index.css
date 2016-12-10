@@ -1,0 +1,23 @@
+body {
+  font-family: 'Ek Mukta', sans-serif;
+  font-size: 20px;
+  padding: 50px 220px;
+}
+
+h2 {
+  text-align: center;
+}
+
+/*.row {
+  display: inline-block;
+  vertical-align: top;
+
+}*/
+.page {
+  padding: 0px 20px;
+}
+
+
+/*.page-left.description {
+
+}*/
