@@ -1,23 +1,59 @@
 body {
   font-family: 'Ek Mukta', sans-serif;
-  font-size: 20px;
-  padding: 50px 220px;
+  font-size: 18px;
+  padding-top: 20px;
+  margin: 0px auto;
+  width: 750px;
+  color: #484848;
 }
-
+a {
+  text-decoration: none;
+}
 h2 {
   text-align: center;
 }
-
-/*.row {
+img {
+  height: 270px;
+}
+ul {
+  list-style-type: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0px 20px;
+}
+.content {
+  page-break-after: auto;
+}
+.information {
+  width: 540px;
   display: inline-block;
-  vertical-align: top;
-
-}*/
+}
+.list-title {
+  font-style: italic;
+  font-size: 20px;
+  font: bold:
+}
+.separator {
+  background-color: turquoise;
+  height: 2px;
+  width: 525px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
 .page {
   padding: 0px 20px;
 }
-
-
-/*.page-left.description {
-
-}*/
+.photo {
+  vertical-align: top;
+  display: inline-block;
+  width: 200px;
+}
+.icon {
+  height: 25px;
+  width: 25px;
+  margin-right: 5px;
+}
+.social{
+  display: inline-block;
+  float: left;
+}
